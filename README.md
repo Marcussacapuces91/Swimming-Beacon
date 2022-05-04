@@ -1,7 +1,9 @@
-# Swimming-Beacon
+# Yet Another Swimming Beacon [^YAUSB]
+[^YAUSB]: https://fr.wikipedia.org/wiki/Yet_another
 
-A wearable beacon that count the number of length in a swimming-pool.
-Un traceur à porter sur soi et qui permet de compter le nombre de longueurs faites dans une piscine ; évidemment avec une base fixe.
+<img src="https://github.com/hampusborgos/country-flags/blob/main/png100px/gb.png" width=20px>&nbsp;A wearable beacon that count the number of length in a swimming-pool.
+
+<img src="https://github.com/hampusborgos/country-flags/blob/main/png100px/fr.png" width=20px>&nbsp;Un traceur à porter sur soi et qui permet de compter le nombre de longueurs faites dans une piscine ; évidemment avec une base fixe.
 
 ## Principes
 * Un beacon bluetooth étanche porté par le nageur ;
