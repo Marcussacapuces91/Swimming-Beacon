@@ -22,6 +22,8 @@ Utilisation du Bluetooth version 5.1 avec gestion d'un beacon en mouvement (mesu
 
 Remontée d'une mesure de température du beacon si la fonction est disponible (intérêt ?).
 
+https://randomnerdtutorials.com/esp32-bluetooth-low-energy-ble-arduino-ide/
+
 ## Code ESP32
 Développement en IDE Arduino 2.0++ (béta) avec librairies :
 * https://github.com/Bodmer/TFT_eSPI ;
